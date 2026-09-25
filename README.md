@@ -2,7 +2,7 @@
 
 I used this project as a personal test to see the impact of vibe-coding, done through Kiro.
 
-A beautiful, modern tic-tac-toe game built with React, Vite, and TypeScript, following Vercel's React best practices for optimal performance and user experience.
+A modern tic-tac-toe game built with React, Vite, and TypeScript, following Vercel's React best practices for optimal performance and user experience.
 
 ## ✨ Features
 
