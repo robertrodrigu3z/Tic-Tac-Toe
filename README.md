@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Game
 
+I used this project as a personal test to see the impact of vibe-coding, done through Kiro.
+
 A tic-tac-toe game built with React, Vite, and TypeScript, styled with a hand-drawn aesthetic featuring a dark background and red elements.
 
 ## Features
