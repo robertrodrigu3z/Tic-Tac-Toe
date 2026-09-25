@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-I used this project as a personal test to see the impact of vibe-coding, done through Kiro.
+I used this project as a personal test/experiment to see the impact and power of vibe-coding, done through Kiro. All code and the following README.md messages were written by AI.
 
 A modern tic-tac-toe game built with React, Vite, and TypeScript, following Vercel's React best practices for optimal performance and user experience.
 
